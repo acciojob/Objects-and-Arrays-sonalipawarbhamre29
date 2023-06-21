@@ -12,6 +12,9 @@ let cap1 = {
 	age: 25,
 };
 
+console.log(team);
+console.log(team1);
+console.log(cap1);
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 window.players = players;
